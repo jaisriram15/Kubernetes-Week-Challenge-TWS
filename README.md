@@ -6,3 +6,6 @@ I have accepted the challenge of kubeweek and completed the task of monday where
 You can check my blog to read about Kubernetes.
 
 DAY-1 https://jaisriram.hashnode.dev/kubeweek-day1-understanding-kubernetes-architecture-and-components-installation-and-configuration
+
+Completing the Tuesday task ✨
+DAY-2 https://jaisriram.hashnode.dev/kubeweek-day-2-service-ingress-network-policies-dns-and-cnicontainer-network-interface
